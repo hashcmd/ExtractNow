@@ -16,7 +16,7 @@
 :: SHIB SHIBA INU : 0x39443a61368D4208775Fd67913358c031eA86D59
 
 :: Directory we want to monitor for new files to unrar / unzip / extract
-set path="F:\torrent\downloads"
+set path="F:\T_Downloads"
 
 :: Path to ExtractNow settings file
 set settings_file=%LocalAppData%\ExtractNow\extractnow.ini
